@@ -1,4 +1,4 @@
-This is a simple command line database implemantation. It stores data in tables and supports indexing but does not have primary key functionality.
+This is a simple command line database implemantation. It stores data in tables and supports indexing but does not have primary key functionality or table joins.
 Sample Queries:
 Without Index
 create table T1 ( num int, name varchar(9) );
